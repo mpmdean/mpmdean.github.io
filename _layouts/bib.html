@@ -150,27 +150,6 @@
           {%- if entry.html %}
             <a href="{{ entry.html }}" class="btn btn-sm z-depth-0" role="button">HTML</a>
           {%- endif %}
-          {% if entry.doi %}
-          [<a href="https://www.doi.org/{{entry.doi}}" target="_blank">HTML</a>]
-          {% endif %}
-
-          {% capture search_pdf_path %}{{ entry.key | prepend: '/assets/pdf/' }}.pdf{% endcapture %}
-          {% for static_file in site.static_files %}
-              {% if static_file.path == search_pdf_path %}
-                  {% assign file_found = true %}
-                  [<a href="{{search_pdf_path}}" target="_blank">PDF</a>]
-              {% endif %}
-          {% endfor %}
-        
-          {% capture search_pdf_path %}{{ entry.key | prepend: '/assets/pdf/' }}_supp.pdf{% endcapture %}
-          {% for static_file in site.static_files %}
-              {% if static_file.path == search_pdf_path %}
-                  {% assign file_found = true %}
-                  [<a href="{{search_pdf_path}}" target="_blank">Supp</a>]
-              {% endif %}
-          {% endfor %}
-
-
           {%- if entry.pdf %}
             {% if entry.pdf contains '://' -%}
             <a href="{{ entry.pdf }}" class="btn btn-sm z-depth-0" role="button">PDF</a>
