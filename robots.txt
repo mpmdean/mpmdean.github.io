@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: mpmdean.github.io/sitemap.xml
