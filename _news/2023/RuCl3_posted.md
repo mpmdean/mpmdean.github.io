@@ -1,0 +1,7 @@
+---
+layout: post
+date: 2023-08-04 09:00:00-0400
+inline: true
+---
+
+Jennifer's preprint on [stacking disorder in αRuCl<sub>3</sub>](/publications/#Sears2023stacking) is now available.
