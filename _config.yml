@@ -170,6 +170,9 @@ collections:
   projects:
     output: true
     permalink: /projects/:path/
+  groupnotes:
+    output: true
+    permalink: /groupnotes/:path/
 
 announcements:
   enabled: true
