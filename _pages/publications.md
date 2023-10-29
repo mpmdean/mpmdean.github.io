@@ -11,7 +11,7 @@ nav_order: 4
 <div class="publications">
 {% bibliography -f preprints %}
 </div>
-
+<hr>
 ## Papers
 <!-- _pages/publications.md -->
 <div class="publications">
