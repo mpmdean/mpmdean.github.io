@@ -117,6 +117,43 @@
     {{entry.note2}}
   {% endif %}
 
+
+{% if site.enable_publication_badges %}
+{% assign entry_has_altmetric_badge = entry.doi or  entry.eprint%}
+{% assign entry_has_dimensions_badge = entry.dimensions or entry.doi or entry.pmid %}
+{% if entry_has_altmetric_badge or entry_has_dimensions_badge %}
+<div class="badges">
+  {%- if site.enable_publication_badges.altmetric %}
+  <span class="altmetric-embed" data-hide-no-mentions="true" data-hide-less-than="15" data-badge-type="2" data-badge-popover="right"
+    {% if entry.eprint %}
+      data-arxiv-id="{{ entry.eprint }}"
+    {% elsif entry.doi %}
+      data-doi="{{ entry.doi }}"
+    {% elsif entry.altmetric %}
+      data-altmetric-id="{{ entry.altmetric }}"
+    {% elsif entry.pmid %}
+      data-pmid="{{ entry.pmid }}"
+    {% elsif entry.isbn %}
+      data-isbn="{{ entry.isbn }}"
+    {% endif %}
+    ></span>
+  {%- endif %}
+  {%- if site.enable_publication_badges.dimensions%}
+    <span class="__dimensions_badge_embed__"
+    {% if entry.doi %}
+      data-doi="{{ entry.doi }}"
+    {% else if entry.pmid %}
+      data-pmid="{{ entry.pmid }}"
+    {% else %}
+      data-id="{{ entry.dimensions }}"
+    {% endif %}
+    data-hide-zero-citations="true" data-style="small_rectangle" data-legend="hover-right" style="margin-bottom: 3px;"></span>
+  {%- endif %}
+</div>
+{%- endif %}
+{%- endif %}
+
+
     <!-- Hidden abstract block -->
     {% if entry.abstract %}
     <div class="abstract hidden">
