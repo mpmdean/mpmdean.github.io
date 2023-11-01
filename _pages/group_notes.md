@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /groupnotes/
-title: group notes 
+title: Group notes 
 description: Here we keep notes of various tasks within the lab.
 nav: true
 nav_order: 3

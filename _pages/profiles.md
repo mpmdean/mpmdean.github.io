@@ -1,7 +1,7 @@
 ---
 layout: profiles
 permalink: /people/
-title: people
+title: People
 description: People who work with me.
 nav: true
 nav_order: 2
