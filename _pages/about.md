@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: <a href='https://www.bnl.gov/'>Brookaven National Laboratory</a>
+subtitle: <a href='https://www.bnl.gov/'>Brookhaven National Laboratory</a>
 
 profile:
   align: right
