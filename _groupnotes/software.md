@@ -6,7 +6,7 @@ title: Software
 Here we keep a list of useful software:
 * [edrixs](https://nsls-ii.github.io/edrixs/) -- for calculating RIXS.
 * [overleaf](https://www.overleaf.com/project) -- online tool for writing papers in latex.
-* [latexdiff](https://www.overleaf.com/learn/latex/Articles/ Using_Latexdiff_For_Marking_Changes_To_Tex_Documents) -- mark-up differences in latex files.
+* [latexdiff](https://www.overleaf.com/learn/latex/Articles/Using_Latexdiff_For_Marking_Changes_To_Tex_Documents) -- mark-up differences in latex files.
 * [latexmk](https://ctan.org/pkg/latexmk/?lang=en) -- straightforwardly compile latex in full.
 * [cpdf](https://community.coherentpdf.com/) -- manipulate pdfs.
 * [pdfCropMargins](https://pypi.org/project/pdfCropMargins/) -- crop pdfs.
