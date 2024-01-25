@@ -51,4 +51,6 @@ Check for these and consider replacing them.
 [Chicago Manual of Style](https://edwardseducationblog.files.wordpress.com/2013/08/the-chicago-manual-of-style-online-5-225_-nine-techniques-for-achieving-gender-neutrality.pdf) has a useful section about this.
 
 # Other resources
-Appendix A of the [Rev. Mod. Phys. Style Guide](https://cdn.journals.aps.org/files/rmpguide.pdf) is highly recommended. The [amsmath user guide](http://ctan.mirrors.hoobly.com/macros/latex/required/amsmath/amsldoc.pdf) is a helpful document for the use of latex and in particular handling multiline equations.
+- [Improving Your Scientific Writing](https://www.med.upenn.edu/bushmanlab/assets/user-content/documents/scientificwritingv67.pdf) provides excellent advice.
+- This [essay on writing by George Orwell](https://www.orwellfoundation.com/the-orwell-foundation/orwell/essays-and-other-works/politics-and-the-english-language/) is a classic. Read it while drinking [tea](https://www.orwellfoundation.com/the-orwell-foundation/orwell/essays-and-other-works/a-nice-cup-of-tea/).
+- For technical matters, Appendix A of the [Rev. Mod. Phys. Style Guide](https://cdn.journals.aps.org/files/rmpguide.pdf) is highly recommended. The [amsmath user guide](http://ctan.mirrors.hoobly.com/macros/latex/required/amsmath/amsldoc.pdf) is a helpful document for the use of latex and in particular handling multiline equations.
