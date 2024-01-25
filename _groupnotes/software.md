@@ -13,7 +13,7 @@ Here we keep a list of useful software:
 * [Docker](https://www.docker.com/) -- tool for making reproducible computational environments.
 * [WebPlotDigitizer](https://apps.automeris.io/wpd/) -- extract data from graphs.
 * [diffcalc](https://github.com/DiamondLightSource/diffcalc-core) -- calculate Q space i.e. a replacement for spec
-
+* [Optics calculations](https://nanocalc.org/ricalc) -- maybe this will be useful for our pump-probe experiments?
 
 Some not especially well refined, but hopefully useful notes are available on these topics
 * [Converting unit cells](https://github.com/mpmdean/converting_unitcells)
