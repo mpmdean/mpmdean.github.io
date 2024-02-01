@@ -5,4 +5,4 @@ date: 2023-12-12 09:00:00-0400
 inline: true
 ---
 
-Work in collaboration with Xuerong Liu on [electron doped cuprates](/publications/#Li2023) has been accepted in Physical Review Letters.
+Work in collaboration with Xuerong Liu on [electron doped cuprates](/publications/#Li2024) has been accepted in Physical Review Letters.
