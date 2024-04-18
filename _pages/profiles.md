@@ -16,7 +16,7 @@ profiles:
       <p>Wei He<p>
       <p>PhD 2022, Stanford University<p>
   - align: left
-    image: Jennifer_Sears.jpeg
+    image: Jennifer_Sears.png
     content: people_jennifer.md
     more_info: >
       <p>Jennifer Sears<p>
