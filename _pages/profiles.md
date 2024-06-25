@@ -9,6 +9,12 @@ nav_order: 2
 profiles:
   # if you want to include more than one profile, just replicate the following block
   # and create one content file for each profile inside _pages/
+  - align: left
+    image: xiangpeng.jpeg
+    content: people_xiangpeng.md
+    more_info: >
+      <p>Xiangpeng Luo<p>
+      <p>PhD 2024, University of Michigan<p>
   - align: right
     image: Wei_He.jpeg
     content: people_wei.md
