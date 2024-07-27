@@ -19,3 +19,11 @@ nav_order: 5
 {% bibliography -f papers %}
 
 </div>
+
+## Book chapters
+<!-- _pages/publications.md -->
+<div class="publications">
+
+{% bibliography -f books %}
+
+</div>
