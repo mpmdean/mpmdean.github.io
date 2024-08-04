@@ -9,6 +9,12 @@ nav_order: 2
 profiles:
   # if you want to include more than one profile, just replicate the following block
   # and create one content file for each profile inside _pages/
+  - align: right
+    image: jinu.jpeg
+    content: people_jinu.md
+    more_info: >
+      <p>Jinu Thomas<p>
+      <p>PhD student, University of Tennessee<p>
   - align: left
     image: xiangpeng.jpeg
     content: people_xiangpeng.md
