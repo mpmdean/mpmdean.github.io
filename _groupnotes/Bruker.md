@@ -30,11 +30,11 @@ The water in this circuit should be exchanged every six months and the filter cl
 
 ### Replace the cooling water
 1. Removing the water from the system can be done in two ways depending on what you find most convenient:  
-a) Switch off and unplug the system. Insert the shop vac into the water reservoir and suck out the water. Remember that the filter inside the shop vac should be removed in order to avoid getting it wet.  
-b) With the tube off, unplug the quick connectors at the tube head and inset the spare quick connects to keep the ball valves open. In order to remove the water, operate the pump using the service mode of the tools page in the Bruker software.
+a) Switch off and unplug the system. Use the red hand pump to suck out the water. 
+b) Alternatively, with the tube off, unplug the quick connectors at the tube head and insert the spare quick connects to keep the ball valves open. In order to remove the water, operate the pump using the service mode of the tools page in the Bruker software.
 1. Refill the reservoir distilled water by pouring additional water into the reservoir. Take care to avoid splashes. If needed, use the small beaker. There should be spare water under the desk in 233. Ask Mark if you need to buy more water.
 
 ## Haskris
-1. Switch off and unplug the Haskris. Open the water reservoir on the front via the screw-lid and inspect how clean the water is. Remove the panel on the left hand side of the chiller when looking from the front. Use the tap to drain the water from the unit. If there is debris at the bottom of the tank, consider agitating the water before transferring it.
-1. Replace the water with distilled water by pouring additional water into the reservoir. Take care to avoid splashes here and find a small beaker if needed! There should be some under the desk. Ask Mark if you need to buy more.
-1. We are currently installing an additional filter in this circuit. Please check it every six months and replace as necessary.
+1. Switch off and unplug the Haskris. Open the water reservoir on the front via the screw-lid and inspect how clean the water is. If there is debris at the bottom of the tank, consider agitating the water before transferring it. The red pump can be used to suck the water out. There is also a tap to drain the water from the unit, but this is behind the panel on the left hand side of the chiller when looking from the front, so this is usually less convenient.
+1. Replace the water with distilled water by pouring additional water into the reservoir. There should be some under the desk. Ask Mark if you need to buy more.
+1. There is an additional filter in this circuit mounted on the back wall of the lab. Please check it every six months and replace as necessary.
