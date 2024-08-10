@@ -7,6 +7,7 @@ nav: true
 nav_order: 3
 ---
 
+* [Photonic Science Laue](/groupnotes/Photonic_Science_Laue/)  
 * [Bruker diffractometer maintenance](/groupnotes/Bruker/)  
 * [Laue diffractometer maintenance](/groupnotes/Laue/)  
 * [Cleaving samples](/groupnotes/Cleaving/)  
