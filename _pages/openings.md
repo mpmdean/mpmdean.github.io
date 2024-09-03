@@ -7,7 +7,7 @@ nav: true
 nav_order: 4
 ---
 
-We have an open [position focused on ultrafast RIXS](https://bnl.wd1.myworkdayjobs.com/Externa/job/Upton-NY/Postdoctoral-Research-Associate-Quantum-Materials_JR101044). Interested candidates should email [Mark](mailto:mdean@bnl.gov?subject=Interseted%20in%20postdoctoral%20positions). 
+We just made a hire, so there are no open ads right now. Interested candidates are nonetheless welcome to email [Mark](mailto:mdean@bnl.gov?subject=Interseted%20in%20postdoctoral%20positions). 
 
 
 ## Fellowships
