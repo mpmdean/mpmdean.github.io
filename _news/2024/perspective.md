@@ -6,4 +6,4 @@ inline: true
 ---
 
 The preprint for our PRX Perspective [Exploring Quantum Materials with Resonant Inelastic X-Ray Scattering
-](/publications/#He2024magnetically) has been posted on the arXiv.
+](/publications/#mitrano2024exploring) has been posted on the arXiv.
