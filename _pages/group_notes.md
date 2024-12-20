@@ -17,4 +17,5 @@ nav_order: 3
 * [Useful software](/groupnotes/software/)
 * [Data management](/groupnotes/data_management/)
 * [Telework](/groupnotes/Telework/)
+* [Lab links](/groupnotes/lab_links/)  
 * [Contact numbers](/groupnotes/contact/)  
