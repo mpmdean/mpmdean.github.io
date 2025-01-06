@@ -7,7 +7,10 @@ nav: true
 nav_order: 4
 ---
 
-We just made a hire, so there are no open ads right now. Interested candidates are nonetheless welcome to email [Mark](mailto:mdean@bnl.gov?subject=Interseted%20in%20postdoctoral%20positions). 
+We have an open position in collaboration with Johnny Pelliciari [here](https://jobs.bnl.gov/job/upton/postdoctoral-researcher-in-quantum-materials/3437/74698344416
+).
+
+Interested candidates are nonetheless welcome to email [Mark](mailto:mdean@bnl.gov?subject=Interseted%20in%20postdoctoral%20positions). 
 
 
 ## Fellowships
