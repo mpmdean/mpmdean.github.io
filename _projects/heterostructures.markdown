@@ -5,7 +5,7 @@ description: Modifying electronic states at the nanoscale
 img: /assets/img/heterostructures.png
 importance: 4
 category: work
-related_publications: Yang2020strain, rogge2019depth, hao2019anomalous, meyers2019magnetism, lee2019strong, hao2019novel, hao2018giant, fabbris2018emergent, meyers2018decoupling, hao2017two, fabbris2016orbital, hoffman2016oscillatory,
+related_publications: yang2022quasi, Yang2020strain, rogge2019depth, hao2019anomalous, meyers2019magnetism, lee2019strong, hao2019novel, hao2018giant, fabbris2018emergent, meyers2018decoupling, hao2017two, fabbris2016orbital, hoffman2016oscillatory,
 ---
 
 Oxide heterostructures hold great potential for realizing new electronic states and functionalities, but probing these electronic states is often very challenging. We work to extend the applicability of RIXS to probe magnetic interactions, electronic orbitals and electron-phonon coupling in heterostructures.

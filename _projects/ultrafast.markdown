@@ -5,7 +5,7 @@ description: New transient states via photo-excitation
 img: /assets/img/laser.png
 importance: 3
 category: work
-related_publications: mazzone2022antiferromagnetic, mazzone2021laser, cao2019ultrafast, dean2016ultrafast
+related_publications: griffiths2024resolving, mazzone2022antiferromagnetic, mazzone2021laser, cao2019ultrafast, dean2016ultrafast
 ---
 
 We have been pioneering the application of RIXS to transient states using x-ray free electron lasers.
