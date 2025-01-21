@@ -64,5 +64,8 @@ Generate files to perform a grid scan
 ## View.ipynb
 - Explore images
 
+# Software
+As well as the software that comes with the Laue system itself, the [SingleCrystal](https://crystalmaker.com/singlecrystal/) software from the CrystalMaker company is also available to group members.
+
 # Southbay goniometer
 With permission from Mark, it is also possible to mount the Southbay goniometer for polishing or cutting. In this case, it is vial to carefully set the hard and soft limits to preclude any chance of collisions. To do this, put the <span style="color: red;">aluminum gonio-stop for the Southbay in place</span>. and reinitialize the Zaber stage and set the upper <span style="color: red;">limit in z to 43 mm</span>. 
