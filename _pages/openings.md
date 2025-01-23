@@ -7,7 +7,7 @@ nav: true
 nav_order: 4
 ---
 
-We have an open position in collaboration with Johnny Pelliciari [here](https://jobs.bnl.gov/job/upton/postdoctoral-researcher-in-quantum-materials/3437/74698344416
+We have a position for quantum materials research in collaboration with Steve Johston here [here](https://jobs.bnl.gov/job/upton/postdoctoral-research-associate-rixs-studies-of-quantum-materials/3437/76335569904) and position in collaboration with Johnny Pelliciari [here](https://jobs.bnl.gov/job/upton/postdoctoral-researcher-in-quantum-materials/3437/74698344416
 ). Interested candidates are welcome to email [Mark](mailto:mdean@bnl.gov?subject=Interseted%20in%20postdoctoral%20positions). 
 
 
