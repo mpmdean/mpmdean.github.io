@@ -38,7 +38,7 @@ Here we cover basic usage of our new [Photonic Science Grain Map Laue](https://p
     <div class="col two left caption">
         Kevex X-ray Source Control Interface.
     </div>
-1. Home both the Zager and Newport stages via the "HOME" buttons on the motor panels. Ensure the blue plastic holder (and not the southbay goniometer) is mounted and that the <span style="color: red;">aluminum gonio-stop for the blue holder is in place</span>. Set the upper <span style="color: red;">limit in z to 55 mm</span>. 
+1. If necessary, home both the Zager and Newport stages via the "HOME" buttons on the motor panels. Ensure the blue plastic holder (and not the southbay goniometer) is mounted and that the <span style="color: red;">aluminum gonio-stop for the blue holder is in place</span>. Set the upper <span style="color: red;">limit in z to 55 mm</span>. 
 1. Go to Macro Control. Load and execute the LOAD_POSITION macro from the desktop folder to move the sample stack to the front of the enclosure. Mount the sample. 
 1. Run the VIEWCAM_POSITION macro.
 1. Open the small camera for viewing the sample via PSViewer > Camera > DeviceCamera and the laser distance finder via PSViewer > Tools >  Distance Sensor
