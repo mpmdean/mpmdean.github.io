@@ -9,6 +9,12 @@ nav_order: 2
 profiles:
   # if you want to include more than one profile, just replicate the following block
   # and create one content file for each profile inside _pages/
+  - align: right
+    image: Antoine_Roll.jpg
+    content: people_antoine.md
+    more_info: >
+      <p>Antoine Roll<p>
+      <p>PhD 2025, Université  Paris-Saclay <p>
   - align: left
     image: sophia.jpg
     content: people_sophia.md
