@@ -52,7 +52,7 @@ Here we cover basic usage of our new [Photonic Science Grain Map Laue](https://p
 1. Sample rotations are available via the NEWPORT motor panel.
 
 # Raster scan a sample
-If desired, one can systematically raster scan a sample. Download our code [here](https://github.com/mpmdean/PS_laue_scanner) and copy it to a new folder in My Documents. 
+If desired, one can systematically raster scan a sample. Download our code [here](https://github.com/mpmdean/PS_laue_scanner) and copy it to a new folder in My Documents. Open PowerShell, navigate to the folder in question, run ```conda activate main```, and ```jupyter lab ```.
 
 ## Setup.ipynb
 Generate files to perform a grid scan
