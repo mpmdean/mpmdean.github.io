@@ -484,18 +484,7 @@ ninja.data = [{
           description: "",
           section: "Groupnotes",handler: () => {
               window.location.href = "/groupnotes/writing/";
-            },},{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
-          description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
-          description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
-          description: "",
-          section: "News",},{id: "news-my-website-is-launched",
+            },},{id: "news-my-website-is-launched",
           title: 'My website is launched.',
           description: "",
           section: "News",},{id: "news-i-am-attending-ngsces-in-pescara-italy-giving-a-keynote-talk-on-thursday",
