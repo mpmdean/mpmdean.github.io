@@ -1,0 +1,1 @@
+Jennifer joined us in September 2020 and is working on charge density waves and ultrafast manipulations of magnetism and electronic orbitals with time-resolved RIXS. Jennifer was promoted to a staff position within the Neutron Scattering Group at Brookhaven in March 2024.

@@ -1,0 +1,1 @@
+Wei joined us in April 2022 and worked on quantum magnetism and excitons. As of October 2024, Wei returned to Stanford as a SLAC staff scientist focused on scattering-based experiments on quantum materials. 
