@@ -49,7 +49,7 @@ Here we cover basic usage of our new [Photonic Science Grain Map Laue](https://p
 1. Run the VIEWCAM_POSITION macro.
 1. Open the small camera for viewing the sample via PSViewer > Camera > DeviceCamera and the laser distance finder via PSViewer > Tools >  Distance Sensor
 1. Translate the sample under the laser spot. Measure the sample height with the laser. The real sample-detector distance will be the measured distance plus 7.8 mm, so setting a height of 32.2 mm will give a standard 40 mm sample-detector distance.
-1. Run the LAUE_POSITION_REL macro to move the desired spot under the x-rays.
+1. Run the LAUE_POSITION_REL macro (which is in the deskop folder) to move the desired spot under the x-rays.
 
 # Measure a sample
 1. Align the sample as described in the [Aligning a sample](#align) section above.
