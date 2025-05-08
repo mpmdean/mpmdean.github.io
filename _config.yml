@@ -267,7 +267,7 @@ display_categories: ["external-services"] # these categories will be displayed o
 scholar:
   last_name: [Dean]
   first_name: [Mark, M.]
-  style: american-physics-society
+  csl: _bibliography/american-physics-society.csl
   locale: en
 
   source: /_bibliography/
