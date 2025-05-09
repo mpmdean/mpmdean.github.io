@@ -153,6 +153,8 @@
     {% assign thesis = 'thesis,mastersthesis,phdthesis' | split: ',' %}
     {% if entry.type == 'article' %}
       {% capture entrytype %}<em>{{ entry.journal }}</em>{% endcapture %}
+    {% elsif entry.type == 'misc' %}
+      {% capture entrytype %}<em>{{ "arXiv" }}</em>{% endcapture %}
     {% elsif proceedings contains entry.type %}
       {% capture entrytype %}<em>In {{ entry.booktitle }}</em>{% endcapture %}
     {% elsif thesis contains entry.type %}
@@ -214,7 +216,10 @@
           <a href="{{ entry.html | prepend: '/assets/html/' | relative_url }}" class="btn btn-sm z-depth-0" role="button">HTML</a>
         {% endif %}
       {% endif %}
+      {% if entry.nopdf %}
+      {% else %}
           <a href="{{ entry.key | prepend: '/assets/pdf/' | relative_url | append: '.pdf'}}" class="btn btn-sm z-depth-0" role="button">PDF</a>
+      {% endif %}    
         {% if entry.nosupp %}
         {% else %}
           <a href="{{ entry.key | prepend: '/assets/pdf/' | relative_url | append: '_supp.pdf'}}" class="btn btn-sm z-depth-0" role="button">Supp</a>
