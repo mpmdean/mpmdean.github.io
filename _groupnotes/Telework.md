@@ -5,7 +5,7 @@ title: Telework policy
 
 The lab is currently reassessing its telework policy, so the group policy is on hold while this change occurs.
 
-{% comment %} 
+{% comment %}
 
 While the group retains the option to require full on-site work, we recognize the value of flexible work arrangements.
 

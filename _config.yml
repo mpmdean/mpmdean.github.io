@@ -9,7 +9,7 @@ last_name: Dean
 contact_note: >
   Email is usually the best way to reach me.
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-    Resonant x-ray scattering on quantum materials at Brookhaven.
+  Resonant x-ray scattering on quantum materials at Brookhaven.
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
 keywords: Quantum materials, resonant inelastic x-ray scattering, ultrafast physics # add your own keywords or leave empty
@@ -153,7 +153,7 @@ collections:
     output: true
   groupnotes:
     output: true
- 
+
 # -----------------------------------------------------------------------------
 # Jekyll settings
 # -----------------------------------------------------------------------------

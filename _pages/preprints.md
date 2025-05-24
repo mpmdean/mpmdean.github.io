@@ -2,7 +2,7 @@
 layout: page
 permalink: /preprints/
 title: Preprints
-description: 
+description:
 nav: true
 nav_order: 6
 ---

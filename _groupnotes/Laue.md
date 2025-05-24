@@ -12,8 +12,8 @@ At any one time, the group assigns one person to look after the day-to-day opera
     Our Laue diffractometer
 </div>
 
-
 ### Checking and changing the filter
+
 1. Close both taps on the wall behind the system.
 1. Press the black button on top of the filter housing, which is the cylinder labeled Shelco, to drain the excess pressure from the water circuit.
 1. Put a bucket under the housing and turn the large nut on top of the housing counter-clockwise to open the housing.

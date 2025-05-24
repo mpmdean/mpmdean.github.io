@@ -216,12 +216,12 @@
       {% endif %}
       {% if entry.nopdf %}
       {% else %}
-          <a href="{{ entry.key | prepend: '/assets/pdf/' | relative_url | append: '.pdf'}}" class="btn btn-sm z-depth-0" role="button">PDF</a>
-      {% endif %}    
-        {% if entry.nosupp %}
-        {% else %}
-          <a href="{{ entry.key | prepend: '/assets/pdf/' | relative_url | append: '_supp.pdf'}}" class="btn btn-sm z-depth-0" role="button">Supp</a>
-         {% endif %}
+        <a href="{{ entry.key | prepend: '/assets/pdf/' | relative_url | append: '.pdf'}}" class="btn btn-sm z-depth-0" role="button">PDF</a>
+      {% endif %}
+      {% if entry.nosupp %}
+      {% else %}
+        <a href="{{ entry.key | prepend: '/assets/pdf/' | relative_url | append: '_supp.pdf'}}" class="btn btn-sm z-depth-0" role="button">Supp</a>
+      {% endif %}
       {% if entry.video and site.enable_video_embedding %}
         <a class="abstract btn btn-sm z-depth-0" role="button">Video</a>
       {% elsif entry.video %}
