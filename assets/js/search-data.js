@@ -759,7 +759,12 @@ ninja.data = [{
           section: "News",},{id: "news-work-by-yimei-zhu-s-group-in-collaboration-with-us-on-vo2-is-out-in-nature-communications",
           title: 'Work by Yimei Zhu’s group, in collaboration with us, on VO2 is out...',
           description: "",
-          section: "News",},{id: "projects-cdws",
+          section: "News",},{id: "news-qrixs-experiment",
+          title: 'qRIXS experiment',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/2025/qRIXS/";
+            },},{id: "projects-cdws",
           title: 'CDWs',
           description: "Charge density waves",
           section: "Projects",handler: () => {
