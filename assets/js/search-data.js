@@ -764,7 +764,10 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/2025/qRIXS/";
-            },},{id: "projects-cdws",
+            },},{id: "news-work-on-phonons-in-nickelates-in-collaboration-with-yue-cao-is-available-on-the-arxiv",
+          title: 'Work on phonons in nickelates, in collaboration with Yue Cao, is available on...',
+          description: "",
+          section: "News",},{id: "projects-cdws",
           title: 'CDWs',
           description: "Charge density waves",
           section: "Projects",handler: () => {
