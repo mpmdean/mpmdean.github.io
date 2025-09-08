@@ -776,7 +776,12 @@ ninja.data = [{
           section: "News",},{id: "news-jennifer-s-paper-on-crsbr-has-been-accepted-in-physical-review-letters",
           title: 'Jennifer’s paper on CrSBr has been accepted in Physical Review Letters!',
           description: "",
-          section: "News",},{id: "projects-cdws",
+          section: "News",},{id: "news-qrixs-experiment",
+          title: 'qRIXS experiment',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/2025/Furka/";
+            },},{id: "projects-cdws",
           title: 'CDWs',
           description: "Charge density waves",
           section: "Projects",handler: () => {
