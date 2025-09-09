@@ -17,7 +17,7 @@ $ <profile>
 
 where $r$ is the radial coordinate and $w$ is the $1\/e^2$ radius sometime called the waist of the beam. The total energy in such a pulse within radius $r$ can be computed via an integral
 $
-  E(r) = I_0 integral_0^r  exp(-2r^prime^2/w^2) dif r^prime = (I_0 pi w^2)/2 {1 - exp(-2r^2/w^2)}.
+  E(r) = I_0 integral_0^r  exp(-2r^prime^2/w^2) 2 pi r dif r^prime = (I_0 pi w^2)/2 {1 - exp(-2r^2/w^2)}.
 $<integral>
 The large $r$ limit shows that the total energy is 
 $
@@ -59,7 +59,7 @@ If one considers $X_"HWHM"$ the radius of a circle this gives our second definit
 $
   F_2 = E_0/(pi X_"HWHM"^2),
 $
-a somewhat higher fluence than that in obtained by definition 1 (@def1). The average power within a circle of radius $X_"HWHM"$ is 
+a somewhat higher fluence than that obtained by definition 1 (@def1). The average power within a circle of radius $X_"HWHM"$ is 
 $
   F_2^"average" = E_0/(2 pi X_"HWHM"^2)
 $<def2average>
