@@ -52,7 +52,7 @@ $
 = Definition 2
 Other size metrics include the full-width at half-maximum (FWHM) $X_"FWHM"$ or the half-width at half-maximum (HWHM) $X_"HWHM"$. Expressing these in terms of the beam waist $w$ gives
 $
-   X_"FWHM" = 2 X_"HWHM"= sqrt(2 ln(2)) w.
+   X_"FWHM" = 2 X_"HWHM"= 2 sqrt(2 ln(2)) w.
 $ 
 
 If one considers $X_"HWHM"$ the radius of a circle this gives our second definition
@@ -61,7 +61,7 @@ $
 $
 a somewhat higher fluence than that obtained by definition 1 (@def1). The average power within a circle of radius $X_"HWHM"$ is 
 $
-  F_2^"average" = E_0/(2 pi X_"HWHM"^2)
+  F_2^"average" = E_0/(2 pi X_"HWHM"^2) .
 $<def2average>
 
 = Definition 3
