@@ -17,7 +17,7 @@ $ <profile>
 
 where $r$ is the radial coordinate and $w$ is the $1\/e^2$ radius sometime called the waist of the beam. The total energy in such a pulse within radius $r$ can be computed via an integral
 $
-  E(r) = I_0 integral_0^r  exp(-2r^prime^2/w^2) 2 pi r dif r^prime = (I_0 pi w^2)/2 {1 - exp(-2r^2/w^2)}.
+  E(r) = I_0 integral_0^r  exp(-2r^prime^2/w^2) 2 pi r^prime dif r^prime = (I_0 pi w^2)/2 {1 - exp(-2r^2/w^2)}.
 $<integral>
 The large $r$ limit shows that the total energy is 
 $
