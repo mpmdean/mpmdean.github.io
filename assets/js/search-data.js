@@ -781,7 +781,10 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/2025/Furka/";
-            },},{id: "projects-cdws",
+            },},{id: "news-work-by-young-june-kim-s-group-in-collaboration-with-mark-on-rhenium-materials-has-been-accepted-in-physical-review-b",
+          title: 'Work by Young June Kim’s group, in collaboration with Mark, on rhenium materials...',
+          description: "",
+          section: "News",},{id: "projects-cdws",
           title: 'CDWs',
           description: "Charge density waves",
           section: "Projects",handler: () => {
