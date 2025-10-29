@@ -5,4 +5,4 @@ date: 2025-07-22 09:00:00-0400
 inline: true
 ---
 
-Marton's manuscript in which we develop new methods for [extracting model Hamiltonians from RIXS using machine learning](/preprints/#lajer2025hamiltonian) has been posted on the arXiv.
+Marton's manuscript in which we develop new methods for [extracting model Hamiltonians from RIXS using machine learning](/publications/#lajer2025hamiltonian) has been posted on the arXiv.
