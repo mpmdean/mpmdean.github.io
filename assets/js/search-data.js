@@ -101,6 +101,11 @@ ninja.data = [{
           description: "",
           section: "Groupnotes",handler: () => {
               window.location.href = "/groupnotes/lab_links/";
+            },},{id: "groupnotes-allied-tech-polisher",
+          title: 'Allied Tech polisher',
+          description: "",
+          section: "Groupnotes",handler: () => {
+              window.location.href = "/groupnotes/polisher/";
             },},{id: "groupnotes-replying-to-referee-reports",
           title: 'Replying to referee reports',
           description: "",
