@@ -21,6 +21,5 @@ Corrosion of the platten and clogging of silica inside the fluid delivery system
 2. Flush the fluid delivery tubes regularly. 
 
 # Alignment
-Matt will provide video. 
-
+The system should not require frequent alignment, but instructions are provided here:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/VIDEO_ID" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
