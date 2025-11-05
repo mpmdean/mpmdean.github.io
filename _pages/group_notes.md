@@ -10,6 +10,7 @@ nav_order: 3
 - [Standard definition of fluence with Gaussian beams](/assets/pdf/fluence.pdf)
 - [Photonic Science Laue](/groupnotes/Photonic_Science_Laue/)
 - [Bruker diffractometer maintenance](/groupnotes/Bruker/)
+- [Allied Tech polisher](/groupnotes/polisher/)
 - [Laue diffractometer maintenance](/groupnotes/Laue/)
 - [Admin availability](/groupnotes/Admin_availability/)
 - [Cleaving samples](/groupnotes/Cleaving/)
