@@ -41,7 +41,7 @@ We own an [Allied Tech Multiprep system - 8"]( https://www.alliedhightech.com/Eq
     <img class="centered-img" src="{{ site.baseurl }}/assets/img/polisher/felt.jpg" alt="Polisher with magnetic platen and felt installed.">
    <div class="caption">Polisher with magnetic platen and felt installed.</div>
 
-   Polish in this mode for at least 30 mins.
+   Polish in this mode for at least one hour.
 
 6. Remove the platten and wipe and dry the drive hub. Press 4 on the fluid dispenser to flush the line. Close the tap to the right of the fume hood.
 
