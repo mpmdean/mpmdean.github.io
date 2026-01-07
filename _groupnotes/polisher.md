@@ -52,6 +52,11 @@ Corrosion of the platten and clogging of silica inside the fluid delivery system
 
 2. Flush the fluid delivery tubes regularly. 
 
+# Extended notes
+Bruker have provided 
+* A procedure for [polishing silicon](/assets/pdf/Si_polish.pdf)
+* A procedure for [polishing thin slices of silicon](/assets/pdf/thin_Si_polish.pdf)
+
 # Alignment
 The system should not require frequent alignment, but instructions are provided here:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/QNAvGAL8fdg?si=3cadA-AQAJ0U_1Jo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
