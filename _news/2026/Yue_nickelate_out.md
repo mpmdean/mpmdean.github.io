@@ -1,0 +1,8 @@
+---
+layout: post
+related_posts: false
+date: 2025-01-13 09:00:00-0400
+inline: true
+---
+
+Work on phonons in nickelates, in collaboration with [Yue Cao](https://www.anl.gov/profile/yue-cao), is out in [Physical Review X](preprints/#jia2026lattice).
