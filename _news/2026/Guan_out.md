@@ -5,4 +5,4 @@ date: 2026-01-14 09:00:00-0400
 inline: true
 ---
 
-A Mitrano group [paper](/preprint/#guan2926electronic), which examines layer coupling and phonons in nickelates, has been posted to the arXiv.
+A Mitrano group [paper](/preprint/#guan2026electronic), which examines layer coupling and phonons in nickelates, has been posted to the arXiv.
