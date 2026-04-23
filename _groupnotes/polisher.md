@@ -52,6 +52,9 @@ Corrosion of the platten and clogging of silica inside the fluid delivery system
 
 2. Flush the fluid delivery tubes regularly. 
 
+# Got scratches?
+Consider the quality of lubrication, the load applied to the sample, and debris. Particularly particles breaking off the edges of the sample.
+
 # Extended notes
 Bruker have provided 
 * A procedure for [polishing silicon](/assets/pdf/Si_polish.pdf)
