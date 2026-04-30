@@ -57,8 +57,8 @@ Consider the quality of lubrication, the load applied to the sample, and debris.
 
 # Extended notes
 Bruker have provided 
-* A procedure for [polishing silicon](/assets/pdf/Si_polish.pdf)
-* A procedure for [polishing thin slices of silicon](/assets/pdf/thin_Si_polish.pdf)
+* A procedure for [polishing silicon](/assets/pdf/si_polish.pdf)
+* A procedure for [polishing thin slices of silicon](/assets/pdf/thin_si_polish.pdf)
 
 # Alignment
 The system should not require frequent alignment, but instructions are provided here:
