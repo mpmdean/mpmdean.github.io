@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: mpmdean.github.io/sitemap.xml
+Sitemap: https://markdean.info/sitemap.xml
