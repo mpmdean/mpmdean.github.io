@@ -55,7 +55,7 @@ profiles:
     image: Daniel_Mazzone.jpeg
     content: people_daniel.md
     more_info: >
-      <p>Danniel Mazzone<p>
+      <p>Daniel Mazzone<p>
       <p>PhD 2017, ETH Zurich<p>
   - align: right
     image: Hu_Miao.jpeg

@@ -1,7 +1,7 @@
 ---
 layout: post
 related_posts: false
-date: 2020-03-24 10:00  :00-0400
+date: 2020-03-24 10:00:00-0400
 inline: true
 ---
 

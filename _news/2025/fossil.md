@@ -2,7 +2,7 @@
 layout: post
 title: Fossil at NSLS2
 related_posts: false
-date: 2025-1-15 09:00:00-0400
+date: 2025-01-15 09:00:00-0400
 inline: false
 ---
 

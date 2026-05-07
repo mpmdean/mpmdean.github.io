@@ -7,7 +7,7 @@ nav: true
 nav_order: 4
 ---
 
-We do not currently have open postdoc positions, but interested candidates are welcome to email [Mark](mailto:mdean@bnl.gov?subject=Interseted%20in%20postdoctoral%20positions).
+We do not currently have open postdoc positions, but interested candidates are welcome to email [Mark](mailto:mdean@bnl.gov?subject=Interested%20in%20postdoctoral%20positions).
 
 ## Fellowships
 

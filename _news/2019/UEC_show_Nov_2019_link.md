@@ -1,7 +1,7 @@
 ---
 layout: post
 related_posts: false
-date: 2019-11-07 12:00  :00-0400
+date: 2019-11-07 12:00:00-0400
 inline: true
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 related_posts: false
-date: 2025-7-20 09:00:00-0400
+date: 2025-07-20 09:00:00-0400
 inline: false
 title: qRIXS experiment
 ---

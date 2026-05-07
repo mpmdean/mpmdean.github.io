@@ -1,7 +1,7 @@
 ---
 layout: post
 related_posts: false
-date: 2024-8-4 08:00:00-0400
+date: 2024-08-04 08:00:00-0400
 inline: true
 ---
 
