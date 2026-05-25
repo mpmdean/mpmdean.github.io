@@ -851,6 +851,11 @@ ninja.data = [{
           description: "Charge density waves",
           section: "Projects",handler: () => {
               window.location.href = "/projects/cdw/";
+            },},{id: "projects-excitons",
+          title: 'Excitons',
+          description: "Correlated excitons in van der Waals magnets",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/excitons/";
             },},{id: "projects-heterostructures",
           title: 'Heterostructures',
           description: "Modifying electronic states at the nanoscale",
