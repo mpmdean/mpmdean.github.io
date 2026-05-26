@@ -5,7 +5,7 @@ description: Modifying electronic states at the nanoscale
 img: /assets/img/heterostructures.png
 importance: 4
 category: work
-related_publications: yang2022quasi, yang2020strain, hao2019anomalous, lee2019strong, hao2018giant, meyers2018decoupling, hao2017two, fabbris2016orbital, hoffman2016oscillatory
+related_publications: yang2022quasi, yang2020strain, hao2019anomalous, lee2019strong, hao2018giant, meyers2018decoupling, hao2017two, fabbris2016orbital, hoffman2016oscillatory, dean2012spin
 ---
 
 <span style="display:none">{% cite yang2022quasi yang2020strain hao2019anomalous lee2019strong hao2018giant meyers2018decoupling hao2017two fabbris2016orbital hoffman2016oscillatory %}</span>
