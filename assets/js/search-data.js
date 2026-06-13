@@ -855,7 +855,12 @@ ninja.data = [{
           section: "News",},{id: "news-our-paper-on-correlated-plasmons-in-low-valence-nickelates-has-been-accepted-in-physical-review-x",
           title: 'Our paper on correlated plasmons in low-valence nickelates has been accepted in Physical...',
           description: "",
-          section: "News",},{id: "projects-cdws",
+          section: "News",},{id: "news-sophia-graduates",
+          title: 'Sophia graduates',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/2026/Sophia_graduated/";
+            },},{id: "projects-cdws",
           title: 'CDWs',
           description: "Charge density waves",
           section: "Projects",handler: () => {
