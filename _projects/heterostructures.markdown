@@ -8,7 +8,7 @@ category: work
 related_publications: yang2022quasi, yang2020strain, hao2019anomalous, lee2019strong, hao2018giant, meyers2018decoupling, hao2017two, fabbris2016orbital, hoffman2016oscillatory, dean2012spin
 ---
 
-<span style="display:none">{% cite yang2022quasi yang2020strain hao2019anomalous lee2019strong hao2018giant meyers2018decoupling hao2017two fabbris2016orbital hoffman2016oscillatory dean2012spin %}</span>
+<span style="display:none">{% cite cheng2025purely yang2022quasi yang2020strain hao2019anomalous lee2019strong hao2018giant meyers2018decoupling hao2017two fabbris2016orbital hoffman2016oscillatory dean2012spin %}</span>
 
 Oxide heterostructures and van der Waals layered materials hold great potential for realizing new electronic states and functionalities by engineering interfaces, proximity effects, and atomic-scale confinement. Probing the resulting electronic states is challenging given the small sample volumes involved. We use RIXS to probe magnetic interactions, electronic orbital ordering, and electron-phonon coupling in artificial heterostructures and atomically thin layers. RIXS is particularly well suited for these measurements: it is element-selective, enabling layer-specific spectroscopy, and can be focused into small spots compatible with thin-film and exfoliated-flake geometries.
 
