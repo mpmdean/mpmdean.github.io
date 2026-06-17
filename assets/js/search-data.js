@@ -860,7 +860,10 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/2026/Sophia_graduated/";
-            },},{id: "projects-cdws",
+            },},{id: "news-our-paper-in-collaboration-with-valentina-bisogni-on-multi-spin-dynamic-correlations-in-cuprate-chains-has-been-posted-to-the-arxiv",
+          title: 'Our paper in collaboration with Valentina Bisogni on multi-spin dynamic correlations in cuprate...',
+          description: "",
+          section: "News",},{id: "projects-cdws",
           title: 'CDWs',
           description: "Charge density waves",
           section: "Projects",handler: () => {
