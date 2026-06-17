@@ -88,3 +88,15 @@ With permission from Mark, it is also possible to mount the Southbay goniometer 
 <div class="col two left caption">
     Southbay goniometer mounted together with the aluminum gonio-stop.
 </div>
+
+# Collimator
+
+Several collimators for reducing the beam size are available in a box on the shelf. The longer end gets inserted into the detector, the second lip after the gasket is to get your nails into to pull it out. Take care not to touch the surface of the detector when inserting or removing it. 
+
+
+<div class="img_row" style="text-align: center;">
+    <img style="max-width: 40%;" src="{{ site.baseurl }}/assets/img/coll.jpg">
+</div>
+<div style="text-align: center;" class="caption">
+    Collimator.
+</div>
