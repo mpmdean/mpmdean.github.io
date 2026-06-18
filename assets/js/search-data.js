@@ -51,7 +51,12 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/preprints/";
           },
-        },{id: "groupnotes-admin-availability",
+        },{id: "groupnotes-artificial-intelligence",
+          title: 'Artificial Intelligence',
+          description: "",
+          section: "Groupnotes",handler: () => {
+              window.location.href = "/groupnotes/AI/";
+            },},{id: "groupnotes-admin-availability",
           title: 'Admin availability',
           description: "",
           section: "Groupnotes",handler: () => {
