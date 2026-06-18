@@ -14,6 +14,7 @@ nav_order: 3
 - [Laue diffractometer maintenance](/groupnotes/Laue/)
 - [Admin availability](/groupnotes/Admin_availability/)
 - [Cleaving samples](/groupnotes/Cleaving/)
+- [Artificial Intelligence](/groupnotes/AI/)
 - [Writing papers](/groupnotes/writing/)
 - [Replying to referees](/groupnotes/replyingreferees/)
 - [Making figures](/groupnotes/figures/)
