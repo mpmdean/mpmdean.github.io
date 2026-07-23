@@ -880,7 +880,12 @@ ninja.data = [{
           section: "News",},{id: "news-mark-will-be-giving-an-invited-talk-on-tuesday-july-21-at-iwp-rixs-2026-the-international-workshop-on-photoionization-and-resonant-inelastic-x-ray-scattering-in-berkeley-california",
           title: 'Mark will be giving an invited talk on Tuesday, July 21 at IWP/RIXS...',
           description: "",
-          section: "News",},{id: "projects-cdws",
+          section: "News",},{id: "news-celebrating-ian-robinson-39-s-last-day-at-bnl",
+          title: 'Celebrating Ian Robinson&amp;#39;s last day at BNL',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/2026/ian_retirement/";
+            },},{id: "projects-cdws",
           title: 'CDWs',
           description: "Charge density waves",
           section: "Projects",handler: () => {
