@@ -111,7 +111,7 @@ In honor of many long days and nights doing experiments with Ian, we assembled a
       path="/assets/img/Ian_retirement/presentation_to_ian.jpg"
       sizes="(min-width: 768px) 34vw, 92vw"
       alt="Mark presenting Ian Robinson with his retirement gift"
-      caption="Mark presents the retirement gift to Ian."
+      caption="Mark presents the memento gift to Ian."
       zoomable=true
     %}
   </div>
