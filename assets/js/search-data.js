@@ -884,7 +884,7 @@ ninja.data = [{
           title: 'Celebrating Ian Robinson&amp;#39;s last day at BNL',
           description: "",
           section: "News",handler: () => {
-              window.location.href = "/news/2026/ian_retirement/";
+              window.location.href = "/news/2026/ian_last_day/";
             },},{id: "projects-cdws",
           title: 'CDWs',
           description: "Charge density waves",
