@@ -64,6 +64,13 @@ _styles: |
     grid-column: 1 / -1;
   }
 
+  .retirement-gallery .retirement-centered {
+    grid-column: 1 / -1;
+    justify-self: center;
+    max-width: 560px;
+    width: 100%;
+  }
+
   .retirement-closing {
     border-left: 3px solid var(--global-theme-color);
     font-size: 1.05rem;
@@ -83,6 +90,10 @@ _styles: |
     }
 
     .retirement-gallery .retirement-wide {
+      grid-column: auto;
+    }
+
+    .retirement-gallery .retirement-centered {
       grid-column: auto;
     }
   }
@@ -153,6 +164,15 @@ A musical number from Weiguo Yin upped the class and added a fittingly joyful no
       sizes="(min-width: 768px) 43vw, 92vw"
       alt="Ian Robinson and Fran together at the retirement dinner"
       caption="Ian and Fran."
+      zoomable=true
+    %}
+  </div>
+  <div class="retirement-photo retirement-centered">
+    {% include figure.liquid
+      path="/assets/img/Ian_retirement/sanjit.jpg"
+      sizes="(min-width: 768px) 560px, 92vw"
+      alt="Sanjit Ghose and Ian Robinson together at the retirement dinner"
+      caption="Sanjit and Ian."
       zoomable=true
     %}
   </div>
