@@ -885,7 +885,10 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/2026/ian_last_day/";
-            },},{id: "projects-cdws",
+            },},{id: "news-our-paper-reporting-the-first-observation-of-correlated-plasmons-in-low-valence-nickelates-is-now-out-in-physical-review-x",
+          title: 'Our paper reporting the first observation of correlated plasmons in low-valence nickelates is...',
+          description: "",
+          section: "News",},{id: "projects-cdws",
           title: 'CDWs',
           description: "Charge density waves",
           section: "Projects",handler: () => {
