@@ -14,6 +14,8 @@ ol img {
 
 We own an [Allied Tech Multiprep system - 8"](https://www.alliedhightech.com/Equipment/multiprep-polishing-system-8) with the [AD-5™ Automatic Fluid Dispenser](https://www.alliedhightech.com/Equipment/ad-5-fluid-dispenser).
 
+**Note:** Fran Löb has spare CR2032 batteries for the micrometer.
+
 # Standard polish
 
 1. Place the regular precision platen on the drive hub gently taking care to align the two "A" symbols.
