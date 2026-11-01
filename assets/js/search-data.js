@@ -921,7 +921,12 @@ ninja.data = [{
           section: "News",},{id: "news-mark-will-give-the-rutgers-department-of-physics-and-astronomy-condensed-matter-seminar-on-tuesday-november-17",
           title: 'Mark will give the Rutgers Department of Physics and Astronomy Condensed Matter Seminar...',
           description: "",
-          section: "News",},{id: "projects-cdws",
+          section: "News",},{id: "news-happy-birthday-hari",
+          title: 'Happy birthday, Hari!',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/2026/hari_birthday/";
+            },},{id: "projects-cdws",
           title: 'CDWs',
           description: "Charge density waves",
           section: "Projects",handler: () => {
