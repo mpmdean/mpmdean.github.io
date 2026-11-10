@@ -929,7 +929,10 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/2026/hari_birthday/";
-            },},{id: "projects-cdws",
+            },},{id: "news-congratulations-jennifer-sears-on-receiving-a-doe-office-of-science-early-career-research-award-she-will-use-scattering-to-investigate-altermagnets-a-class-of-magnetic-materials-with-potential-for-future-electronics",
+          title: 'Congratulations, Jennifer Sears, on receiving a DOE Office of Science Early Career Research...',
+          description: "",
+          section: "News",},{id: "projects-cdws",
           title: 'CDWs',
           description: "Charge density waves",
           section: "Projects",handler: () => {
